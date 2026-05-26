@@ -1,0 +1,7 @@
+26-05-2026 | Food | 500.0 | pizza
+26-05-2026 | Food | 500.0 | ice cream
+27-05-2026 | Food | 500.0 | pizza
+27-05-2026 | Food | 1500.0 | fries
+27-05-2026 | Food | 500.0 | pizza
+27-05-2026 | Food | 150.0 | ice cream
+27-05-2026 | Travel | 750.0 | cab
